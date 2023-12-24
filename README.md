@@ -1,8 +1,6 @@
-# stripe-demo-implementation
+# stripe-quarkus-implementation
 
-This project uses Quarkus, the Supersonic Subatomic Java Framework.
-
-If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
+This is a simple Quarkus project demonstrating the integration of the Stripe payment processing library. The project includes a REST API with endpoints for handling payment-related operations using the Stripe Java library.
 
 ## Running the application in dev mode
 
